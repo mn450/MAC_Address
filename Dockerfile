@@ -1,5 +1,5 @@
 FROM python
 RUN  mkdir -p  /var/test
-COPY test.py /var/test/test.py
+COPY main.py /var/test/main.py
 RUN pip install requests
-ENTRYPOINT ["python","/var/test/test.py"]
+ENTRYPOINT ["python","/var/test/main.py"]
