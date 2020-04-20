@@ -85,7 +85,7 @@ docker build -t macimage .
 
 #Now run the container from macimage (docker image) by passing your apikey as environment and MAC-address as arguments
 
-docker run -e apikeys="at_2IwFcMoQvqQsJBa1l5shU0BzGavGH" -ti macimage 3C-77-E6-EE-5F-98
+docker run -e apikeys="your api key" -ti macimage 3C-77-E6-EE-5F-98
 
 #Finally you will get output of CompanyName with respect to MAC-address (3C-77-E6-EE-5F-98).
 
