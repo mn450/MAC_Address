@@ -13,7 +13,7 @@ git
 
 #  Installation of python :
 
-#    Python Pre-requesties
+#    Python dependencies
 
 sudo apt-get update
 
