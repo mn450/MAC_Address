@@ -1,8 +1,8 @@
-#  Description:
+#  Description :
 
 A REST API call quary for MAC-address over the network in  https://macaddress.io/  and gets response of company name associated with that MAC address through docker container.
 
-#  Pre-requesties:
+#  Pre-requesties :
 
 Python 2.7
 
@@ -39,7 +39,7 @@ python2.7 -V
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-# Installation of docker
+# Installation of docker :
 
 apt-get update
 
@@ -67,7 +67,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io -y
 
 docker -v
 
-# Installation of git
+# Installation of git :
 
 sudo apt install git
 
