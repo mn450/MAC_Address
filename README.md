@@ -5,7 +5,9 @@ A REST API call quary for MAC-address over the network in  https://macaddress.io
 #  Pre-requesties:
 
 Python 2.7
+
 Docker
+
 git
 
 
