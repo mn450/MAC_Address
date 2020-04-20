@@ -1,16 +1,16 @@
   #  Description :
 
-  A REST API call quary for MAC-address over the network in  https://macaddress.io/  and gets response of company name associated with that MAC address through docker container.
+    A REST API call quary for MAC-address over the network in  https://macaddress.io/  and gets response of company name associated with that MAC address through docker container.
 
   #  Pre-requesties :
 
-  Python 2.7
+    Python 2.7
 
-  Docker
+    Docker
 
-  git
+    git
 
-  API Key (sign up from  https://macaddress.io/ and get apikey)
+    API Key (sign up from  https://macaddress.io/ and get apikey)
 
   ----------------------------------------------------------------------------------------------------------------------------
   #  Installation of Python :
