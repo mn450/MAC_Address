@@ -11,7 +11,7 @@ Docker
 git
 
 ----------------------------------------------------------------------------------------------------------------------------
-#  Installation of python :
+#  Installation of Python :
 
 #Python dependencies
 
@@ -39,7 +39,7 @@ python2.7 -V
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-# Installation of docker :
+# Installation of Docker :
 
 apt-get update
 
@@ -67,7 +67,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io -y
 
 docker -v
 
-# Installation of git :
+# Installation of Git :
 
 sudo apt install git
 
