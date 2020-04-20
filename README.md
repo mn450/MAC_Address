@@ -11,9 +11,9 @@ Docker
 git
 
 ----------------------------------------------------------------------------------------------------------------------------
-#  Installation of python 
+#  Installation of python :
 
-#    Python dependencies
+#Python dependencies
 
 sudo apt-get update
 
