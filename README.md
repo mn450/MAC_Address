@@ -79,7 +79,7 @@ git --version
 
 git clone https://github.com/mn450/MAC_Address.git
 
-#Building the docker image by running below command
+#Build the docker image by running below command
 
 docker build -t macimage .
 
