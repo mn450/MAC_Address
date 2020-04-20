@@ -10,8 +10,8 @@ Docker
 
 git
 
-
-#  Installation of python :
+----------------------------------------------------------------------------------------------------------------------------
+#  Installation of python 
 
 #    Python dependencies
 
@@ -36,6 +36,8 @@ sudo ./configure --enable-optimizations
 sudo make altinstall
 
 python2.7 -V
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 # Installation of docker
 
